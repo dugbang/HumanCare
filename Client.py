@@ -1,5 +1,6 @@
-import socket
+# 출처; https://wayhome25.github.io/python/2017/04/24/socket-chat/
 
+import socket
 
 s = socket.socket()
 host = socket.gethostname()
